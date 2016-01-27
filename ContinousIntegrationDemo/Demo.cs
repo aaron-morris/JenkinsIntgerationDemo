@@ -3,9 +3,11 @@
     public class Demo
     {
         /// <summary>
-        /// Returns true
+        /// Always returns true
         /// </summary>
-        /// <returns></returns>
+        /// <returns>
+        /// Returns true
+        /// </returns>
         public bool Test()
         {
             return true;
