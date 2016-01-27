@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinousIntegrationDemo", "ContinousIntegrationDemo\ContinousIntegrationDemo.csproj", "{7C391541-40EB-4D25-B71C-853E1FE6365A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinuousIntegrationDemoTests", "ContinuousIntegrationDemoTests\ContinuousIntegrationDemoTests.csproj", "{059317FB-DD2B-432F-8462-63799AD13219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C391541-40EB-4D25-B71C-853E1FE6365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C391541-40EB-4D25-B71C-853E1FE6365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C391541-40EB-4D25-B71C-853E1FE6365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C391541-40EB-4D25-B71C-853E1FE6365A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059317FB-DD2B-432F-8462-63799AD13219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059317FB-DD2B-432F-8462-63799AD13219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059317FB-DD2B-432F-8462-63799AD13219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059317FB-DD2B-432F-8462-63799AD13219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
