@@ -1,5 +1,4 @@
-﻿
-namespace ContinousIntegrationDemo
+﻿namespace ContinousIntegrationDemo
 {
     public class Demo
     {
