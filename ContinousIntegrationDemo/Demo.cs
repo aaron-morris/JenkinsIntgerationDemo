@@ -1,5 +1,8 @@
 ﻿namespace ContinousIntegrationDemo
 {
+    /// <summary>
+    /// Provides a demo class for unit testing
+    /// </summary>
     public class Demo
     {
         /// <summary>
